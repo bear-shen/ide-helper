@@ -1,5 +1,5 @@
 <?php
-namespace Swoole\Http;
+namespace Swoole\Http2;
 
 class Client extends \Swoole\Client
 {
