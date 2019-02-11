@@ -1,7 +1,7 @@
 <?php
 namespace Swoole\Http;
 
-class Client extends \Swoole\Client
+class Client
 {
 
     public $type;

@@ -33,6 +33,7 @@ class_alias(Swoole\Channel::class, 'swoole_channel');
 class_alias(Swoole\Coroutine\Channel::class, 'chan');
 class_alias(Swoole\Ringqueue::class, 'swoole_ringqueue');
 class_alias(Swoole\Msgqueue::class, 'swoole_msgqueue');
+class_alias(Swoole\Http2\Client::class, 'swoole_http2_client');
 class_alias(Swoole\Http2\Request::class, 'swoole_http2_request');
 class_alias(Swoole\Http2\Response::class, 'swoole_http2_response');
 class_alias(Swoole\Serialize::class, 'swoole_serialize');
